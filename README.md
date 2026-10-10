@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I190
 ### Team Details
-#### **Team Name** <<Revolutionay>> <br/>
+#### **Team Name** <Revolutionay> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |  Hostel 
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| :-------
